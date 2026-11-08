@@ -41,18 +41,6 @@ I design PCBs, write firmware and build IoT systems, with 4+ years of hands-on h
 
 **Protocols:** I2C · SPI · UART · RS485 · Modbus · ADC · PWM · LoRa · MQTT / AWS IoT Core
 
-## Things I've built
-
-| Project | What it is |
-|---|---|
-| **Low-cost auto-guiding system for telescope mounts** | Vision-based star tracking (Lucas-Kanade optical flow in Python) driving a microcontroller-controlled mount. Published 2021. |
-| **TinyWire for ATtiny85** | C library for software I2C between ATtiny85 and sensors, plus a UART-based RS485 library |
-| **Agriculture drone** | Autonomous drone with a chemical spraying system for large fields, shown at Shilpa Sena 2019 |
-| **Electromechanical sea wave power unit** | Renewable energy generator, 2nd place at IESL Techno Exhibition 2017 |
-| **Battle robot** | High-power, low-weight robot, final 8 at Uva Wellassa University robot battle 2019 |
-| **Line-following and obstacle-avoiding robots** | Arduino robots with industrial sensors, SLIIT Robofest 2017 and 2018 |
-
-
 ## GitHub stats
 
 ![Eranga's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErangaRanasinghe&show_icons=true&hide_border=true)
