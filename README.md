@@ -52,10 +52,6 @@ I design PCBs, write firmware and build IoT systems, with 4+ years of hands-on h
 | **Battle robot** | High-power, low-weight robot, final 8 at Uva Wellassa University robot battle 2019 |
 | **Line-following and obstacle-avoiding robots** | Arduino robots with industrial sensors, SLIIT Robofest 2017 and 2018 |
 
-## Recognition
-
-- 🥉 **2nd Runner-Up, Agri-Tech Innovation**, SLASSCOM Ingenuity Awards 2024 (govi.ai)
-- 🥈 **Silver, Industrial Category**, 25th National ICT Awards NBQSA 2023 (govi.ai)
 
 ## GitHub stats
 
