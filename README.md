@@ -41,11 +41,6 @@ I design PCBs, write firmware and build IoT systems, with 4+ years of hands-on h
 
 **Protocols:** I2C · SPI · UART · RS485 · Modbus · ADC · PWM · LoRa · MQTT / AWS IoT Core
 
-## GitHub stats
-
-![Eranga's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErangaRanasinghe&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErangaRanasinghe&layout=compact&hide_border=true)
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eranga-ranasinghe-820951179)
